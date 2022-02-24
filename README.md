@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://projecteuler.net/">
-  <img align="center" src="https://projecteuler.net/profile/TuxPenguin217.png" />
+  <img align="center" src="https://projecteuler.net/profile/Vyasdev217.png" />
 </a>
 
 <!--a href="https://www.codewars.com/users/Vyasdev217">
