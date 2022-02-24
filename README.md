@@ -23,3 +23,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/Vyasdev217/Vyasdev217">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyasdev217&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" />
 </a>
+
+<br>
+<br>
+
+<a href="https://projecteuler.net/">
+  <img align="center" src="https://projecteuler.net/profile/TuxPenguin217.png" />
+</a>
+
+<!--a href="https://www.codewars.com/users/Vyasdev217">
+  <img align="center" src="https://www.codewars.com/users/Vyasdev217/badges/large" />
+</a-->
