@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<a href="https://projecteuler.net/">
+<!--a href="https://projecteuler.net/">
   <img align="center" src="https://projecteuler.net/profile/Vyasdev217.png" />
-</a>
+</a-->
 
 <!--a href="https://www.codewars.com/users/Vyasdev217">
   <img align="center" src="https://www.codewars.com/users/Vyasdev217/badges/large" />
