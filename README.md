@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://profile-counter.glitch.me/vyasdev217/count.svg)
 
 <a href="https://github.com/Vyasdev217/Vyasdev217">
   <img height="180em" align="center" style="padding-bottom:8px" src="https://github-readme-stats.vercel.app/api?username=Vyasdev217&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=prs" />
@@ -34,3 +33,6 @@ Here are some ideas to get you started:
 <!--a href="https://www.codewars.com/users/Vyasdev217">
   <img align="center" src="https://www.codewars.com/users/Vyasdev217/badges/large" />
 </a-->
+
+Visitor counter(From 2023 Jan 24)
+![visitors](https://profile-counter.glitch.me/vyasdev217/count.svg)
