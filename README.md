@@ -16,7 +16,7 @@ Web scraping
 
 
 ## 🌐 Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyasdev217) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vyasdev217)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyasdev217) 
 <br>
 [Email 📧](mailto://vyasdev1207@gmail.com)
 
