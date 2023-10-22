@@ -22,7 +22,7 @@ Web scraping
 <br>
 [Email 📧](mailto://vyasdev1207@gmail.com)
 
-## 🤝 Hire me as a freelancer
+## 🤝 Hire me on contract
 [Contact me via Upwork](https://www.upwork.com/freelancers/~019a725b0da8008524)
 <br>
 [Contact me via Workana](https://www.workana.com/freelancer/a3a5a188f5082cb03f0fffea43c087ab#hire-a3a5a188f5082cb03f0fffea43c087ab)
