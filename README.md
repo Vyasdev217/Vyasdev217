@@ -1,29 +1,14 @@
 ### Hi there, I am Vyasdev 👋
 
 ## ✨ Highlights
-Computer Science student
-<br>
 Part-time freelancer ([Upwork](https://www.upwork.com/freelancers/~019a725b0da8008524)): Task Automation, Web Development, Python, VBA, Google Apps Script, etc.
 <br>
 [Translator member in GNOME Japanese translation team](https://l10n.gnome.org/users/vyasdev217/)
 
-## 🔭 Field of interest
-Back-end web development
-<br>
-Optimization Algorithms
-<br>
-Machine Learning
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-## 🌐 Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyasdev217) 
-<br>
-[Email 📧](mailto://vyasdev1207@gmail.com)
-
 ## 🤝 Hire me on contract
 [Hire me via Upwork](https://www.upwork.com/freelancers/~019a725b0da8008524)
+<br>
+[Email 📧 (freelance@vyasdev.com)](mailto://freelance@vyasdev.com)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
