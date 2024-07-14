@@ -6,8 +6,6 @@ Part-time freelancer ([Upwork](https://www.upwork.com/freelancers/~019a725b0da80
 [Translator member in GNOME Japanese translation team](https://l10n.gnome.org/users/vyasdev217/)
 
 ## 🤝 Hire me on contract
-[Hire me via Upwork](https://www.upwork.com/freelancers/~019a725b0da8008524)
-<br>
 [Email 📧 (freelance@vyasdev.com)](mailto://freelance@vyasdev.com)
 
 ### ✍️Random Dev Quote
