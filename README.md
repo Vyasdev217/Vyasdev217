@@ -6,7 +6,7 @@ Part-time freelancer ([Upwork](https://www.upwork.com/freelancers/~019a725b0da80
 [Translator member in GNOME Japanese translation team](https://l10n.gnome.org/users/vyasdev217/)
 
 ## 🤝 Hire me on contract
-[Email 📧 (freelance@vyasdev.com)](mailto://freelance@vyasdev.com)
+[Email 📧 (freelance@vyasdev.net)](mailto://freelance@vyasdev.net)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
